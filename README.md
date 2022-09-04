@@ -7,13 +7,22 @@
 <h2>Tools Used:-</h2><br>
 <p><b>1.Android Studio</b><br>
   
-2.<b>Java </b><br>
-3.<b>Firebase</b><br>
-4.<b>XML</b><br>
+<b>2.Java </b><br>
+<b>3.Firebase</b><br>
+<b>4.XML</b><br>
 
 
 </p>
+<p> I have done the Health tips App.Firstly Created 7 activities in app<br>
+   To make user validation used firebase eamil id and password Authentication<br>
+   Created one activity for registration one for login, one for health tips<br>
+   inserted Health tips in Tips.xml activity
 
+
+
+
+
+</p>
 <hr>
 <img src="https://github.com/Akshay1976/Health_tips_kratin/blob/master/app/src/main/res/drawable-v24/1.jpeg?raw=true" > <br>
 
