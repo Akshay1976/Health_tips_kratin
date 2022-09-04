@@ -19,4 +19,4 @@
 
 <img src="https://github.com/Akshay1976/Health_tips_kratin/blob/master/app/src/main/res/drawable-v24/7.jpeg?raw=true" ><br>
 
-<img src="https://github.com/Akshay1976/Health_tips_kratin/blob/master/app/src/main/res/drawable-v24/firebase.jpeg?raw=true" >
+<img src="https://github.com/Akshay1976/Health_tips_kratin/blob/master/app/src/main/res/drawable-v24/firebase.jpg?raw=true" >
