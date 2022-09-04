@@ -12,7 +12,7 @@
 
 
 </p>
-<p> I have done the Health tips App.Firstly Created 7 activities in app<br>
+<p> I have done the Health tips App.Created 7 activities in app,<br>
    To make user validation used firebase eamil id and password Authentication<br>
    Created one activity for registration one for login, one for health tips<br>
    inserted Health tips in Tips.xml activity
